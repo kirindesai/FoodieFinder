@@ -13,4 +13,5 @@ Sentiment Analysis: Uses OpenAI's API to assess reviews across categories like a
 Web Scraping: Gathers review data from platforms such as Yelp using BeautifulSoup and Pandas.
 
 Real-time Recommendations: Interactive search where users can input criteria (e.g., "Best Thai food with good service") for tailored suggestions.
+
 Front-end Interface: Built with Streamlit for a clean, accessible user experience.
